@@ -1,0 +1,16 @@
+[
+    {
+    "email": "manishmodanwal500@gmail.com",
+    "name": "manish modanwal",
+    "rollNo": "2200971540073",
+    "accessCode": "Muagvq",
+    "clientID": "15055833-b999-4d23-805e-d1737038686c",
+    "clientSecret": "HKMbuPQrEZAaUYmR"
+},
+
+{
+    "token_type": "Bearer",
+    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiYXVkIjoiaHR0cDovLzIwLjI0NC41Ni4xNDQvZXZhbHVhdGlvbi1zZXJ2aWNlIiwiZW1haWwiOiJtYW5pc2htb2RhbndhbDUwMEBnbWFpbC5jb20iLCJleHAiOjE3NTEwMTUxOTksImlhdCI6MTc1MTAxNDI5OSwiaXNzIjoiQWZmb3JkIE1lZGljYWwgVGVjaG5vbG9naWVzIFByaXZhdGUgTGltaXRlZCIsImp0aSI6IjI2MzM1MTQzLWUxYTctNDVlMC05ZGU0LTlhZmY3MDM3OTgwZCIsImxvY2FsZSI6ImVuLUlOIiwibmFtZSI6Im1hbmlzaCBtb2RhbndhbCIsInN1YiI6IjE1MDU1ODMzLWI5OTktNGQyMy04MDVlLWQxNzM3MDM4Njg2YyJ9LCJlbWFpbCI6Im1hbmlzaG1vZGFud2FsNTAwQGdtYWlsLmNvbSIsIm5hbWUiOiJtYW5pc2ggbW9kYW53YWwiLCJyb2xsTm8iOiIyMjAwOTcxNTQwMDczIiwiYWNjZXNzQ29kZSI6Ik11YWd2cSIsImNsaWVudElEIjoiMTUwNTU4MzMtYjk5OS00ZDIzLTgwNWUtZDE3MzcwMzg2ODZjIiwiY2xpZW50U2VjcmV0IjoiSEtNYnVQUXJFWkFhVVltUiJ9.VA-Yp-skiMbLGNNB4g3QKjMxEJMT8WOvzh4plJegBIU",
+    "expires_in": 1751015199
+}
+]

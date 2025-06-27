@@ -1,0 +1,16 @@
+{
+  "name": "@your-roll-number/logging-middleware",
+  "version": "1.0.0",
+  "description": "Reusable logging middleware for evaluation",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["log", "middleware"],
+  "author": "Your Roll Number",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0"
+    
+  }
+}
